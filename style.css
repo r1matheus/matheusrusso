@@ -112,11 +112,11 @@ header .container button {
 nav {
     display: flex;
     align-items: center;
-    height: 10px;
-    margin-bottom: 78px;
+    height: 10%;
+
     justify-content: space-between;
     background: var(--bg-dark);
-    padding: 0 80px;
+    padding: 0 90px;
     position: sticky;
     top: 0;
     z-index: 99;
@@ -353,7 +353,11 @@ p {
 
 footer {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
+}
+
+.made {
+    margin-bottom: 80px;
 }
 
 
